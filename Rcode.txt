@@ -6,6 +6,8 @@ plot(y~x)
 
 #Hey I'm going to add some stuff!
 
+#Let's cause a merge conflict!
+
 
 
 
