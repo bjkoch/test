@@ -6,6 +6,10 @@ plot(y~x)
 
 #Hey I'm going to add some stuff!
 
+w <- runif(100,2,5)
+w
+
+
 
 
 
